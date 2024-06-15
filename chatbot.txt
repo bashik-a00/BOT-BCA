@@ -1,12 +1,14 @@
 Introduction to BCA
 The Bachelor of Computer Applications (BCA) is an undergraduate degree course in computer applications. With the rapid growth of the IT industry, there is a huge demand for computer professionals. The duration of the course is normally three years, which is divided into six semesters.
 
+
 Objectives of BCA
 Understanding Computer Basics: Students will learn the basics of computer systems and information technology.
 Develop Programming Skills: Students will develop programming skills and learn multiple programming languages.
 Database Management: Understanding of database management systems and the ability to handle databases.
 Application Development: Learn to develop applications for various industries and purposes.
 Problem Solving Skills: Enhance problem-solving skills using computing tools and techniques.
+
 
 Core Subjects in BCA
 Programming Languages: C, C++, Java, Python.
@@ -18,6 +20,7 @@ Networking: Basics of networking, protocols, network devices.
 Data Structures: Arrays, linked lists, stacks, queues, trees, graphs.
 Algorithms: Sorting, searching, dynamic programming, greedy algorithms.
 Mathematics for Computing: Discrete mathematics, statistics, linear algebra.
+
 
 Elective Subjects in BCA
 Cloud Computing: Introduction to cloud services, cloud models.
